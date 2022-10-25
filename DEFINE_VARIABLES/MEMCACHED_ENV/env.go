@@ -1,0 +1,3 @@
+package MEMCACHED_ENV
+
+const MCD_SERVER = "GOAPP_ENV_MCD_SERVER"
